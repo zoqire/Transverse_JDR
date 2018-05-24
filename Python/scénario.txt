@@ -1,0 +1,9 @@
+pendant 100 à 200 tours
+	le bosse test ses attaqent sur les champs
+	(les champs n'attaquent pas et chaque tour les pv sont réinitialisés)
+	(ça cré un csv avec les dégats de chaque attaque du bosse)
+	(ça sera un random % dmg_max (dmg_min<dmg<dmg_max) et on définit si cette attaque est efficace ou pas)
+	c'est la phase "test", le bosse n'est pas intelligent, il fait juste ce qu'il a.
+Ensuite, on commence le learning, on traite les donnée qu'on a fait juste avant
+Et la le bosse ne joue plus au hasard pour tester, mais il utilise des attaques réflechies contre les champs
+	
