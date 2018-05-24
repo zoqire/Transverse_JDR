@@ -17,8 +17,6 @@ algorithmes de gestions des dégats
 jeux de données
 
 Ce qui reste à faire/à completer :
-importation (presque réussie, de petites erreurs qui restent..)
-Traitement des données (tutos en français de prêt)
 finition du programme
 
 Nous avons crée le jeux de données grace au fichier test.py, qui mets tout dans un csv
