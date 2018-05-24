@@ -1,0 +1,19 @@
+index;classe;hp;Resistance;Armure;Cp_Critique;Block;Attack;Precision;Initiative;Provoc;cible(zone ou pas;attaque;attaque_dmg;cldwn
+int;string;int;%;int;%;%;int;%;int;%;bool;string;int;int
+1;Magicien;3465;20;205;38;21;218;90;96;25;0;Boule de feu;184;0
+2;Magicien;3465;20;205;38;21;218;90;96;25;1;Chaine d'eclairs;125;3
+3;Magicien;3465;20;205;38;21;218;90;96;25;0;Meteore;250;6
+4;Assassin;3540;27;153;29;30;266;93;102;21;0;Coup de dague;140;0
+5;Assassin;3540;27;153;29;30;266;93;102;21;0;Lame fantome;180;4
+6;Assassin;3540;27;153;29;30;266;93;102;21;0;Assommoir;70;5
+7;Guerrier;3930;42;215;14;38;230;89;98;30;0;Charge feroce;150;0
+8;Guerrier;3930;42;215;14;38;230;89;98;30;0;Provocation;;3
+9;Pretre;3465;22;201;25;18;223;94;100;18;0;Chatiment;130;0
+10;Pretre;3465;22;201;25;18;223;94;100;18;0;Guerison sacre;20%;3
+11;Pretre;3465;22;201;25;18;223;94;100;18;0;Vitesse sacre;;6
+12;Boss_lvl1;15000;43;350;35;35;400;95;101;;0;Enchainement furieux;150;0
+13;Boss_lvl1;15000;43;350;35;35;400;95;101;;1;Impact monstrueux;230;4
+14;Boss_lvl1;15000;43;350;35;35;400;95;101;;0;Coup de griffe;170;0
+15;Boss_lvl1;15000;43;350;35;35;400;95;101;;0;Morsure;250;3
+16;Boss_lvl1;15000;43;350;35;35;400;95;101;;1;Souffle de feu;200;4
+17;Boss_lvl1;15000;43;350;35;35;400;95;101;;0;Regeneration;30%;6

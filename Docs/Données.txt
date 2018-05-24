@@ -1,0 +1,5 @@
+on a besoin de :
+id attaque, id perso visé, dégats, cooldown, efficacité
+
+pour chaque personne, sur chaque cible
+faire ça pour mob -> champs ET champs -> mobs
