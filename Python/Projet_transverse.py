@@ -14,8 +14,6 @@ def analyses():  #je pense qu'ici faut mettre ce qu'on va utiliser dans notre fo
     mfd = my_datasets.load_my_fancy_dataset()
     X= mfd.data #mes echantillons
     y=mfd.target #efficacite
-    print(X)
-    print(y)
     
     print(dir(mfd))
     
